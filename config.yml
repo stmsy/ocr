@@ -1,0 +1,5 @@
+lang: eng  # delimit by + for multiple languages
+oem:
+psm:
+whitelist:
+blacklist:
